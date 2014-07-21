@@ -1,0 +1,7 @@
+hull2.dat
+50, 15, 1.0, 0.15707, 2, 0, 2,
+turret.dat
+0, 28, 1, 
+turret.dat
+0, -22, 2,
+blah

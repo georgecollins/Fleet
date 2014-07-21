@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="x:/George/test.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Four/fourjar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Four/&lt;{FourExample.java[FourExample" manifestLocation="/Four/fourmanifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Four/&lt;"/>
+        <file path="/Four/two,dat"/>
+        <file path="/Four/testboat.txt"/>
+        <file path="/Four/hull2.dat"/>
+        <file path="/Four/ptboat.txt"/>
+        <file path="/Four/turret.dat"/>
+        <file path="/Four/four.dat"/>
+        <file path="/Four/super.dat"/>
+        <file path="/Four/one.dat"/>
+        <file path="/Four/island1.dat"/>
+        <file path="/Four/island.dat"/>
+        <file path="/Four/.project"/>
+        <file path="/Four/three.dat"/>
+        <file path="/Four/fourdata.dat"/>
+        <file path="/Four/destroyer2.txt"/>
+        <file path="/Four/destroyer.txt"/>
+        <file path="/Four/hull3.dat"/>
+        <javaElement handleIdentifier="=Four/&lt;lib.jars"/>
+        <file path="/Four/island2.dat"/>
+        <javaElement handleIdentifier="=Four/&lt;lib"/>
+        <file path="/Four/hull.dat"/>
+        <file path="/Four/two.dat"/>
+        <file path="/Four/PickupManager[Conflict].class"/>
+        <file path="/Four/.classpath"/>
+    </selectedElements>
+</jardesc>
